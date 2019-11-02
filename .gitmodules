@@ -1,30 +1,30 @@
 [submodule "plugins/Calendar"]
 	path = plugins/Calendar
-	url = git://github.com/kanboard/plugin-calendar
+	url = https://github.com/kanboard/plugin-calendar.git
 [submodule "plugins/Bigboard"]
 	path = plugins/Bigboard
-	url = git://github.com/stinnux/kanboard-bigboard
+	url = https://github.com/stinnux/kanboard-bigboard.git
 [submodule "plugins/DatabaseStorage"]
 	path = plugins/DatabaseStorage
-	url = git://github.com/kanboard/plugin-database-storage
+	url = https://github.com/kanboard/plugin-database-storage.git
 [submodule "plugins/DueDate"]
 	path = plugins/DueDate
-	url = git://github.com/dmorlitz/kanboard-duedate
+	url = https://github.com/dmorlitz/kanboard-duedate.git
 [submodule "plugins/EncryptedContent"]
 	path = plugins/EncryptedContent
-	url = git://github.com/kenlog/EncryptedContent
+	url = https://github.com/kenlog/EncryptedContent.git
 [submodule "plugins/Gantt"]
 	path = plugins/Gantt
-	url = git://github.com/kanboard/plugin-gantt
+	url = https://github.com/kanboard/plugin-gantt.git
 [submodule "plugins/GoogleAuth"]
 	path = plugins/GoogleAuth
-	url = git://github.com/kanboard/plugin-google-auth
+	url = https://github.com/kanboard/plugin-google-auth.git
 [submodule "plugins/KanboardCSS"]
 	path = plugins/KanboardCSS
-	url = git://github.com/aljawaid/KanboardCSS
+	url = https://github.com/aljawaid/KanboardCSS.git
 [submodule "plugins/MarkdownPlus"]
 	path = plugins/MarkdownPlus
-	url = git://github.com/creecros/MarkdownPlus
+	url = https://github.com/creecros/MarkdownPlus.git
 [submodule "plugins/Milestone"]
 	path = plugins/Milestone
-	url = git://github.com/oliviermaridat/kanboard-milestone-plugin
+	url = https://github.com/oliviermaridat/kanboard-milestone-plugin.git
