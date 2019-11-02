@@ -19,9 +19,6 @@
 [submodule "plugins/GoogleAuth"]
 	path = plugins/GoogleAuth
 	url = https://github.com/kanboard/plugin-google-auth.git
-[submodule "plugins/KanboardCSS"]
-	path = plugins/KanboardCSS
-	url = https://github.com/aljawaid/KanboardCSS.git
 [submodule "plugins/MarkdownPlus"]
 	path = plugins/MarkdownPlus
 	url = https://github.com/creecros/MarkdownPlus.git
