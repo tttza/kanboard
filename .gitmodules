@@ -28,9 +28,9 @@
 [submodule "plugins/Milestone"]
 	path = plugins/Milestone
 	url = https://github.com/oliviermaridat/kanboard-milestone-plugin.git
-[submodule "plugins\\Essential"]
-	path = plugins\\Essential
+[submodule "plugins/Essential"]
+	path = plugins/Essential
 	url = https://github.com/kenlog/Essential.git
-[submodule "plugins\\Slack"]
-	path = plugins\\Slack
+[submodule "plugins/Slack"]
+	path = plugins/Slack
 	url = https://github.com/kanboard/plugin-slack.git
