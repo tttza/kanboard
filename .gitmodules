@@ -1,0 +1,33 @@
+[submodule "plugins/Calendar"]
+	path = plugins/Calendar
+	url = https://github.com/kanboard/plugin-calendar.git
+[submodule "plugins/Bigboard"]
+	path = plugins/Bigboard
+	url = https://github.com/stinnux/kanboard-bigboard.git
+[submodule "plugins/DatabaseStorage"]
+	path = plugins/DatabaseStorage
+	url = https://github.com/kanboard/plugin-database-storage.git
+[submodule "plugins/DueDate"]
+	path = plugins/DueDate
+	url = https://github.com/dmorlitz/kanboard-duedate.git
+[submodule "plugins/EncryptedContent"]
+	path = plugins/EncryptedContent
+	url = https://github.com/kenlog/EncryptedContent.git
+[submodule "plugins/Gantt"]
+	path = plugins/Gantt
+	url = https://github.com/kanboard/plugin-gantt.git
+[submodule "plugins/GoogleAuth"]
+	path = plugins/GoogleAuth
+	url = https://github.com/kanboard/plugin-google-auth.git
+[submodule "plugins/MarkdownPlus"]
+	path = plugins/MarkdownPlus
+	url = https://github.com/creecros/MarkdownPlus.git
+[submodule "plugins/Milestone"]
+	path = plugins/Milestone
+	url = https://github.com/oliviermaridat/kanboard-milestone-plugin.git
+[submodule "plugins/Essential"]
+	path = plugins/Essential
+	url = https://github.com/kenlog/Essential.git
+[submodule "plugins/Slack"]
+	path = plugins/Slack
+	url = https://github.com/kanboard/plugin-slack.git
