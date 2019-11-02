@@ -21,5 +21,6 @@ data/config.php
 *.bak
 /config.php
 !docker/var/wwww/app/config.php
+!plugins/*
 node_modules
 ./vendor
