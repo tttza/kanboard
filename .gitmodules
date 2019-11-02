@@ -1,9 +1,3 @@
-[submodule "plugins/plugins/Bigboard"]
-	path = plugins/plugins/Bigboard
-	url = https://github.com/kanboard/plugin-calendar.git
-[submodule "plugins/plugins/Calendar"]
-	path = plugins/plugins/Calendar
-	url = https://github.com/kanboard/plugin-calendar.git
 [submodule "plugins/Calendar"]
 	path = plugins/Calendar
 	url = https://github.com/kanboard/plugin-calendar.git

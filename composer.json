@@ -18,7 +18,6 @@
         "ext-simplexml": "*",
         "ext-dom": "*",
         "ext-xml": "*",
-        "gd": "*",
         "ext-gd": "*",
         "ext-mbstring": "*",
         "ext-hash": "*",
